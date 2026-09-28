@@ -1,0 +1,22 @@
+# Dataset folder (Bohot bada hota hai, GitHub par push nahi karna)
+data/
+*.zip
+
+# PyTorch large model weights
+*.pth
+
+# Python cache & temp files
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Locally generated temporary test reports
+gradcam_result.png
+*.pdf
+Clinical_Report_*.txt

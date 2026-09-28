@@ -1,0 +1,11 @@
+torch
+torchvision
+typing-extensions
+scikit-learn
+opencv-python
+matplotlib
+pillow
+streamlit
+numpy
+pandas
+reportlab
