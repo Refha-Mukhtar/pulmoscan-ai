@@ -2,7 +2,7 @@ torch
 torchvision
 typing-extensions
 scikit-learn
-opencv-python
+opencv-python-headless
 matplotlib
 pillow
 streamlit
