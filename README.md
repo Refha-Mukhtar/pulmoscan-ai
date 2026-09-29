@@ -1,4 +1,5 @@
 # 🫁 PulmoScan AI: Enterprise Clinical Decision Support System
+[Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)] https://pulmoscanai.streamlit.app/
 
 An end-to-end medical deep learning and explainable AI (XAI) workstation for **Pneumonia detection and triage** from Anterior-Posterior Chest Radiographs. Built with **PyTorch**, **ResNet-18**, and **Streamlit**.
 
